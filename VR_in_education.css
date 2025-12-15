@@ -1,0 +1,61 @@
+div.static {
+  position: static; 
+  border: 3px 
+  solid saddleBrown; 
+  text-align: center;
+}
+
+
+div.static a {
+  display: inline-block;
+  margin: 30px; 
+}
+
+img {
+  width: 320px;
+  height: 250px;
+}
+
+
+.image-text {
+  margin-top: 10px; 
+  font-size: 20px; 
+  color: #333; 
+}
+
+h1 {
+  color: navy;
+  font-family:Brush Script MT;
+  font-size: 50px;
+  text-align:center;
+}
+
+
+h2 {
+  color: blueviolet ;
+  font-family: Georgia;
+  font-size: 20px;
+  text-align:justify;
+}
+
+a {
+  text-decoration: none;
+}
+
+i {
+  color: navy;
+}
+
+mark {
+  background-color: rosyBrown;
+  color: black;
+}
+
+.class4 {
+  color: black;
+  text-align: justify;
+  font-size: 15px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+  

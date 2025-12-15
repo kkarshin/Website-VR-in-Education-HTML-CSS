@@ -1,0 +1,98 @@
+.header { 
+    background-image:url('VR.background.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: white; 
+    text-align: center; 
+    padding: 80px; 
+} 
+
+.navigation { 
+    background-color: mediumslateBlue; 
+    color: black; 
+    text-align: center; 
+    padding: 3px; 
+}  
+
+.navigation li { 
+    display: inline;
+    margin-right: 20px;
+} 
+
+
+.navigation a { 
+    text-decoration: none; 
+    color: black; 
+    font-weight: bold; 
+    font-size: 20px; x
+    padding: 20px;
+} 
+
+.navigation a:hover { 
+    background-color: blueViolet;  
+    color: pink;
+} 
+
+body {
+background-image: url('background.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.class1 {
+  color: black;
+  text-align:center;
+  font-family:Brush Script MT;
+  font-size:50px;
+}
+
+.class2 { 
+text-align: center;
+width: 90%;
+position: relative; 
+left: 5%;
+padding: 15px;
+border-style: ridge;
+}
+
+h3 {
+  color: black;
+  text-align:justify;
+  font-family:Arial;
+}
+
+p {
+  color: black;
+  text-align:justify;
+  font-family:Arial;
+  font-size: 20px;
+  margin: 30px;
+}
+
+mark {
+   background-color:bisque;
+}
+
+.image-container {
+  text-align: center;
+}
+
+img {
+  width: 380px;
+  height: 320px;
+}
+
+
+.align1 {
+    margin: 0 auto;
+    text-align: center; 
+    color: red;
+    font-family:Arial;
+}
+
+
+
+
+ 

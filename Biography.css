@@ -1,0 +1,135 @@
+section { 
+    background: lavender; 
+    padding: 20px; 
+} 
+
+table.biography img {
+  width:150px;
+  height:180px;
+}
+
+p {
+  color: black;
+  text-align:justify;
+  font-family:Arial;
+}
+
+h1 {
+  color: skyBlue;
+  text-align:center;
+  font-family:Brush Script MT;
+}
+
+table.biography h3 {
+  color: purple;
+  text-align:right;
+  font-family:Arial;
+}
+
+table.biography h4 {
+  color: black;
+  text-align:center;
+  font-family:Arial;
+}
+
+table.biography h5 {
+  color: purple;
+  text-align:center;
+  font-family:Arial;
+  font-size:18px;
+}
+
+table.biography {
+    border: 1px solid;
+    background-color: indigo;
+    width: 90%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+
+table.biography tr:first-child td {
+    background-color: royalblue;
+    text-align: center;
+}
+
+
+table.biography td {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+table.biography th {
+    background-color: lightblue;
+    text-align: center;
+}
+
+table.biography li {
+    color: black;
+    font-size: 16px;
+    margin: 5px;
+}
+
+table.biography a {
+    color: royalblue;
+    text-decoration: none;
+}
+
+table.biography a:hover {
+    background-color:yellow;
+    text-decoration: underline;
+}
+
+
+img {
+  width:600px;
+  height:350px;
+}
+
+.ucsi-table img {
+  width:250px;
+  height:160px;
+}
+
+.ucsi-table {
+    border: 1px solid springGreen;
+    background-color: limeGreen;
+    width: 90%;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.ucsi-table td {
+    background-color: lightGreen;
+    padding: 10px;
+    width:30%;
+}
+
+.ucsi-table tr {
+    text-align: center;
+    padding: 10px;
+}
+
+
+h2 {
+  color: darkgreen;
+  text-align:center;
+  font-family:Arial Black;
+}
+
+.ucsi-table h4 {
+  color: darkCyan;
+  text-align:center;
+  font-family:Arial Black;
+}
+
+.ucsi-table h5 {
+  color: black;
+  text-align:justify;
+  font-family:Arial;
+  font-size: 15px;
+}
+
+iframe {
+  background: lightSalmon; 
+}

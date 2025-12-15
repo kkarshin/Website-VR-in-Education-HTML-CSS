@@ -1,0 +1,41 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr:nth-child(odd) {
+    background-color: papayaWhip;
+}
+
+tr:nth-child(even) {
+    background-color: moccasin;
+}
+
+th {
+    text-align: center;
+    padding: 10px;
+    color: darkRed;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+    font-family:Comic Sans Ms;
+}
+
+li {
+    color: blue;
+    text-align: center;
+}
+
+.class1 {
+    color: black;
+    text-align: left;
+}
+
+h1 {
+  color: maroon;
+  text-align:center;
+  font-family:Brush Script MT;
+}
+
